@@ -1,0 +1,17 @@
+{
+  "name": "Daily Manager App",
+  "short_name": "Daily Manager",
+  "description": "Ứng dụng quản lý công việc công ty và cá nhân trong ngày.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
